@@ -6,6 +6,10 @@ h1 {
 
 .anchor {
     text-align: center;
-    
+}
+
+button{
+    margin: 7.5px;
+    width: 251px;
 }
 
